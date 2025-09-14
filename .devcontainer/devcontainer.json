@@ -1,0 +1,9 @@
+{
+	"name": "debian",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"overrideCommand": false,
+	"privileged": true,
+	"remoteUser": "user"
+}
