@@ -1,4 +1,4 @@
-FROM debian
+FROM kalilinux
 ENV USERNAME=user
 ENV PASSWORD=1234
 ENV container docker
