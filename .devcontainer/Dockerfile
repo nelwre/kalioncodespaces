@@ -1,4 +1,4 @@
-FROM kalilinux
+FROM kalilinux/kali-rolling
 ENV USERNAME=user
 ENV PASSWORD=1234
 ENV container docker
