@@ -1,1 +1,1 @@
-it runs kali on codespaces.
+it runs kali linux on codespaces.
